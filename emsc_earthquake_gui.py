@@ -28,8 +28,9 @@ class EMSCEarthquakeGUI:
     def __init__(self, root):
         self.root = root
         self.root.title("EMSC Deprem Veri İndirici")
-        self.root.geometry("700x600")
+        self.root.geometry("700x700")  # Yüksekliği artırdım
         self.root.resizable(True, True)
+        self.root.minsize(700, 700)  # Minimum pencere boyutu
         
         # Ana çerçeve
         main_frame = ttk.Frame(root, padding="10")
