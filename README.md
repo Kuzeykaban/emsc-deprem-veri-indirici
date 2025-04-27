@@ -30,8 +30,7 @@ Bu projeyi çalıştırmak için aşağıdaki Python paketlerine ihtiyacınız v
 
 1. Bu depoyu klonlayın veya indirin:
 ```
-git clone https://github.com/kullanici/emsc-earthquake-data.git
-cd emsc-earthquake-data
+git clone https://github.com/Kuzeykaban/emsc-deprem-veri-indirici.git
 ```
 veya sağ kısımdaki releases bölümünden indirin
 
